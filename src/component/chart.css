@@ -1,0 +1,10 @@
+.dflex{
+    display: flex;
+    background-color: rgb(67, 67, 67);
+    margin: 0 auto;
+    width: 90%;
+    border-radius: 12px;
+    justify-content: space-evenly;
+    flex-flow: wrap;
+    margin-top: 10px;
+}

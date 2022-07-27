@@ -1,0 +1,23 @@
+.mainFilter{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 0 auto;
+    width: 90%;
+}
+.filterBtn{
+    display: grid;
+    grid-column-start: 3;
+    justify-content: center;
+}
+.filterBy{
+text-align: center;
+}
+select{
+    background-color: blueviolet;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    outline: none;
+    width: 80px;
+    text-align: center;
+}
